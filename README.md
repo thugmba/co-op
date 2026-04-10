@@ -1,3 +1,3 @@
 # co-op
-I am computer B
+I am computer B. And you?
 I am computer A
